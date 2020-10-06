@@ -1,5 +1,3 @@
-
-#Numbers = input('Enter numbers: ')
 Numbers = [2, 6, 25, 17, 1]
 xor = 0
 for num1 in Numbers:
